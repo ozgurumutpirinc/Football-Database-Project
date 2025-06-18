@@ -1,6 +1,6 @@
-<h1>This is project homework for Database Systems class I took in 2025.</h1>
+<h3>This is project homework for Database Systems class I took in 2025.</h3>
 
-<h2>Firstly the topic football was selected to create a database about. Steps of this project are below respectively:</h2>
+<h4>Firstly the topic football was selected to create a database about. Steps of this project are below respectively:</h4>
 
 1) Selecting a topic to create a database about
 2) Deciding columns and features
@@ -10,4 +10,4 @@
 6) Coding this database in MySQL
 
 
-<h1>This is just the SQL Code of this project</h1>
+<h3>This is just the SQL Code of this project</h3>
