@@ -1,5 +1,4 @@
-![SQL](https://img.shields.io/badge/language-SQL-green)
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <h3>This is project homework for Database Systems class I took in 2025.</h3>
 
 <h4>Steps of this project are below respectively:</h4>
